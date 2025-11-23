@@ -1,0 +1,18 @@
+[
+  {"id":"syd-001","title":"Cozy studio near Circular Quay","city":"Sydney","price_per_night_aud":95,"fees":15,"rating":4.6,"source":"seed","thumbnail":"https://placehold.co/400x250?text=Sydney+1"},
+  {"id":"syd-002","title":"Sunny 1BR in Surry Hills","city":"Sydney","price_per_night_aud":120,"fees":20,"rating":4.7,"source":"seed","thumbnail":"https://placehold.co/400x250?text=Sydney+2"},
+  {"id":"syd-003","title":"Private room near Bondi Beach","city":"Sydney","price_per_night_aud":80,"fees":10,"rating":4.3,"source":"seed","thumbnail":"https://placehold.co/400x250?text=Sydney+3"},
+  {"id":"mel-001","title":"Compact studio CBD Melbourne","city":"Melbourne","price_per_night_aud":85,"fees":12,"rating":4.5,"source":"seed","thumbnail":"https://placehold.co/400x250?text=Melbourne+1"},
+  {"id":"mel-002","title":"Bright 1BR in Fitzroy","city":"Melbourne","price_per_night_aud":110,"fees":18,"rating":4.8,"source":"seed","thumbnail":"https://placehold.co/400x250?text=Melbourne+2"},
+  {"id":"bri-001","title":"Riverside studio Brisbane CBD","city":"Brisbane","price_per_night_aud":75,"fees":10,"rating":4.2,"source":"seed","thumbnail":"https://placehold.co/400x250?text=Brisbane+1"},
+  {"id":"per-001","title":"Stylish apartment near Perth CBD","city":"Perth","price_per_night_aud":90,"fees":14,"rating":4.4,"source":"seed","thumbnail":"https://placehold.co/400x250?text=Perth+1"},
+  {"id":"adl-001","title":"Central 1BR Adelaide","city":"Adelaide","price_per_night_aud":70,"fees":8,"rating":4.1,"source":"seed","thumbnail":"https://placehold.co/400x250?text=Adelaide+1"},
+  {"id":"hob-001","title":"Sea view Hobart studio","city":"Hobart","price_per_night_aud":95,"fees":16,"rating":4.6,"source":"seed","thumbnail":"https://placehold.co/400x250?text=Hobart+1"},
+  {"id":"can-001","title":"Canberra cosy flat","city":"Canberra","price_per_night_aud":82,"fees":11,"rating":4.3,"source":"seed","thumbnail":"https://placehold.co/400x250?text=Canberra+1"},
+  {"id":"syd-004","title":"Modern 2BR in Parramatta","city":"Sydney","price_per_night_aud":130,"fees":25,"rating":4.9,"source":"seed","thumbnail":"https://placehold.co/400x250?text=Sydney+4"},
+  {"id":"syd-005","title":"Budget room near Central Station","city":"Sydney","price_per_night_aud":65,"fees":7,"rating":3.9,"source":"seed","thumbnail":"https://placehold.co/400x250?text=Sydney+5"},
+  {"id":"mel-003","title":"Designer loft Southbank","city":"Melbourne","price_per_night_aud":140,"fees":22,"rating":4.9,"source":"seed","thumbnail":"https://placehold.co/400x250?text=Melbourne+3"},
+  {"id":"bri-002","title":"Suburban 1BR, quiet area","city":"Brisbane","price_per_night_aud":68,"fees":9,"rating":4.0,"source":"seed","thumbnail":"https://placehold.co/400x250?text=Brisbane+2"},
+  {"id":"syd-006","title":"Backpacker-friendly room Kings Cross","city":"Sydney","price_per_night_aud":55,"fees":5,"rating":3.8,"source":"seed","thumbnail":"https://placehold.co/400x250?text=Sydney+6"}
+]
+
